@@ -7,24 +7,24 @@ console.log(s);
 }
 add(12, 14)
 
-function product(a,b){
+function multiplication(a,b){
     
     var s=a*b;
     console.log(s);
     }
-    product(12, 14)
+    multiplication(12, 14)
 
-function subt(a,b){
+function subtraction(a,b){
     
-        var s=a-b;
-        console.log(s);
+        var d=a-b;
+        console.log(d);
         }
-        subt(12, 14)   
+        subtraction(12, 14)   
 
-function Div(a,b){
+function Division(a,b){
     
             var s=a/b;
             console.log(s);
             }
-            Div(12, 14)       
+            Division(12, 14)       
 
